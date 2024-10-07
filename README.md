@@ -25,7 +25,7 @@ AgriSmart leverages satellite data and weather forecasting to monitor crop healt
 To run this demo locally, follow these steps:
 
 1. **Clone the repository**:
-   ```bash
+
    git clone https://github.com/yourusername/AgriSmart.git
    cd AgriSmart
 
