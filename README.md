@@ -33,10 +33,12 @@ To run this demo locally, follow these steps:
 
 cd backend
 pip install -r requirements.txt
+
 3. **Install Frontend Dependencies**:
 
 cd ../frontend
 npm install
+
 4. **Run the Application:**
 
 **Start the backend server**
